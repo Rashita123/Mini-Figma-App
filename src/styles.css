@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  margin: 0.5rem;
+}
+.copyCSSstyling {
+  width: 100%;
+  text-align: center;
+  margin: auto;
+  background: blueviolet;
+  border-radius: 8px;
+  padding: 1rem 0.5rem;
+  color: white;
+  margin-top: 4rem;
+}
